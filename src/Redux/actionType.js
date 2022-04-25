@@ -1,0 +1,3 @@
+export const LOGIN_USER = "LOGIN_USER";
+export const ARTICLE_LIST = "ARTICLE_LIST";
+export const ARTICLE_DETAILS = "ARTICLE_DETAILS";
